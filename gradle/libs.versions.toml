@@ -1,19 +1,16 @@
 [versions]
 agp = "8.10.0"
-converterGson = "2.9.0"
 kotlin = "1.9.0"
 coreKtx = "1.16.0"
 junit = "4.13.2"
 junitVersion = "1.2.1"
 espressoCore = "3.6.1"
 appcompat = "1.7.0"
-loggingInterceptor = "4.11.0"
 loggingInterceptorVersion = "4.11.0"
 marketLibrary = "Init"
 material = "1.12.0"
 activity = "1.10.1"
 constraintlayout = "2.2.1"
-retrofit = "(insert latest version)"
 retrofitVersion = "2.9.0"
 
 [libraries]
